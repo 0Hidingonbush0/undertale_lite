@@ -1,0 +1,34 @@
+{
+  "game_settings": {
+    "typewriter_speed": 0.03,
+    "auto_save": true,
+    "show_ascii_art": true,
+    "difficulty": "normal"
+  },
+  "ascii_art": {
+    "heart": "❤",
+    "monster": "👾",
+    "item": "📦",
+    "fight": "🗡️",
+    "act": "🎭",
+    "mercy": "💛",
+    "dead": "💀"
+  },
+  "flavor_texts": {
+    "save": [
+      "* File saved.",
+      "* Your progress has been saved.",
+      "* The power of determination fills you with... saving ability."
+    ],
+    "level_up": [
+      "* Your LOVE increased!",
+      "* You feel stronger.",
+      "* The power of determination flows through you."
+    ],
+    "death": [
+      "* You cannot give up just yet...",
+      "* Stay determined!",
+      "* The power of determination brings you back."
+    ]
+  }
+}

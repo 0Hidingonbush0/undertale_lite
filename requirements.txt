@@ -1,0 +1,13 @@
+# Undertale Lite - Python Text-based Game
+# No external dependencies required - uses only Python standard library
+
+# Python 3.6+ recommended for best compatibility
+# Required Python modules (all part of standard library):
+# - json (for save/load functionality)
+# - random (for battle mechanics)
+# - time (for typewriter effect)
+# - sys (for input/output)
+# - os (for file operations)
+
+# Optional: For enhanced terminal experience
+# colorama>=0.4.0  # For colored text (not implemented yet)
